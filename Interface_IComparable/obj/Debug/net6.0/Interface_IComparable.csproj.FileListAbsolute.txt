@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IComparable\bin\Debug\net6.0\Interface_IComparable.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IComparable\bin\Debug\net6.0\Interface_IComparable.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IComparable\bin\Debug\net6.0\Interface_IComparable.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IComparable\bin\Debug\net6.0\Interface_IComparable.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IComparable\bin\Debug\net6.0\Interface_IComparable.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IComparable\obj\Debug\net6.0\Interface_IComparable.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IComparable\obj\Debug\net6.0\Interface_IComparable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IComparable\obj\Debug\net6.0\Interface_IComparable.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IComparable\obj\Debug\net6.0\Interface_IComparable.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IComparable\obj\Debug\net6.0\Interface_IComparable.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IComparable\obj\Debug\net6.0\Interface_IComparable.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IComparable\obj\Debug\net6.0\refint\Interface_IComparable.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IComparable\obj\Debug\net6.0\Interface_IComparable.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IComparable\obj\Debug\net6.0\Interface_IComparable.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IComparable\obj\Debug\net6.0\ref\Interface_IComparable.dll

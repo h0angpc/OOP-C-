@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_Multicasting\bin\Debug\net6.0\Delegates_Multicasting.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_Multicasting\bin\Debug\net6.0\Delegates_Multicasting.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_Multicasting\bin\Debug\net6.0\Delegates_Multicasting.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_Multicasting\bin\Debug\net6.0\Delegates_Multicasting.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_Multicasting\bin\Debug\net6.0\Delegates_Multicasting.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_Multicasting\obj\Debug\net6.0\Delegates_Multicasting.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_Multicasting\obj\Debug\net6.0\Delegates_Multicasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_Multicasting\obj\Debug\net6.0\Delegates_Multicasting.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_Multicasting\obj\Debug\net6.0\Delegates_Multicasting.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_Multicasting\obj\Debug\net6.0\Delegates_Multicasting.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_Multicasting\obj\Debug\net6.0\Delegates_Multicasting.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_Multicasting\obj\Debug\net6.0\refint\Delegates_Multicasting.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_Multicasting\obj\Debug\net6.0\Delegates_Multicasting.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_Multicasting\obj\Debug\net6.0\Delegates_Multicasting.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_Multicasting\obj\Debug\net6.0\ref\Delegates_Multicasting.dll

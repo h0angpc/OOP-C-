@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_DonTK\obj\Debug\net6.0\ThuaKe_DonTK.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_DonTK\obj\Debug\net6.0\ThuaKe_DonTK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_DonTK\obj\Debug\net6.0\ThuaKe_DonTK.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_DonTK\obj\Debug\net6.0\ThuaKe_DonTK.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_DonTK\obj\Debug\net6.0\ThuaKe_DonTK.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_DonTK\bin\Debug\net6.0\ThuaKe_DonTK.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_DonTK\bin\Debug\net6.0\ThuaKe_DonTK.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_DonTK\bin\Debug\net6.0\ThuaKe_DonTK.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_DonTK\bin\Debug\net6.0\ThuaKe_DonTK.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_DonTK\bin\Debug\net6.0\ThuaKe_DonTK.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_DonTK\obj\Debug\net6.0\ThuaKe_DonTK.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_DonTK\obj\Debug\net6.0\refint\ThuaKe_DonTK.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_DonTK\obj\Debug\net6.0\ThuaKe_DonTK.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_DonTK\obj\Debug\net6.0\ThuaKe_DonTK.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_DonTK\obj\Debug\net6.0\ref\ThuaKe_DonTK.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ThuaKe_ExtensionMethods/1.0.0": {
+        "runtime": {
+          "ThuaKe_ExtensionMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThuaKe_ExtensionMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

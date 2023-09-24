@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\LambdaExpressions_VIDu\bin\Debug\net6.0\LambdaExpressions_VIDu.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\LambdaExpressions_VIDu\bin\Debug\net6.0\LambdaExpressions_VIDu.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\LambdaExpressions_VIDu\bin\Debug\net6.0\LambdaExpressions_VIDu.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\LambdaExpressions_VIDu\bin\Debug\net6.0\LambdaExpressions_VIDu.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\LambdaExpressions_VIDu\bin\Debug\net6.0\LambdaExpressions_VIDu.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\LambdaExpressions_VIDu\obj\Debug\net6.0\LambdaExpressions_VIDu.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\LambdaExpressions_VIDu\obj\Debug\net6.0\LambdaExpressions_VIDu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\LambdaExpressions_VIDu\obj\Debug\net6.0\LambdaExpressions_VIDu.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\LambdaExpressions_VIDu\obj\Debug\net6.0\LambdaExpressions_VIDu.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\LambdaExpressions_VIDu\obj\Debug\net6.0\LambdaExpressions_VIDu.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\LambdaExpressions_VIDu\obj\Debug\net6.0\LambdaExpressions_VIDu.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\LambdaExpressions_VIDu\obj\Debug\net6.0\refint\LambdaExpressions_VIDu.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\LambdaExpressions_VIDu\obj\Debug\net6.0\LambdaExpressions_VIDu.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\LambdaExpressions_VIDu\obj\Debug\net6.0\LambdaExpressions_VIDu.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\LambdaExpressions_VIDu\obj\Debug\net6.0\ref\LambdaExpressions_VIDu.dll

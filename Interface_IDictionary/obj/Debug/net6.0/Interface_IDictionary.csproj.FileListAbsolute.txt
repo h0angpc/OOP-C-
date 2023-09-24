@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IDictionary\bin\Debug\net6.0\Interface_IDictionary.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IDictionary\bin\Debug\net6.0\Interface_IDictionary.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IDictionary\bin\Debug\net6.0\Interface_IDictionary.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IDictionary\bin\Debug\net6.0\Interface_IDictionary.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IDictionary\bin\Debug\net6.0\Interface_IDictionary.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IDictionary\obj\Debug\net6.0\Interface_IDictionary.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IDictionary\obj\Debug\net6.0\Interface_IDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IDictionary\obj\Debug\net6.0\Interface_IDictionary.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IDictionary\obj\Debug\net6.0\Interface_IDictionary.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IDictionary\obj\Debug\net6.0\Interface_IDictionary.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IDictionary\obj\Debug\net6.0\Interface_IDictionary.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IDictionary\obj\Debug\net6.0\refint\Interface_IDictionary.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IDictionary\obj\Debug\net6.0\Interface_IDictionary.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IDictionary\obj\Debug\net6.0\Interface_IDictionary.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Interface_IDictionary\obj\Debug\net6.0\ref\Interface_IDictionary.dll

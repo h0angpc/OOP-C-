@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_TryCatch\bin\Debug\net6.0\XuLyNgoaiLe_TryCatch.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_TryCatch\bin\Debug\net6.0\XuLyNgoaiLe_TryCatch.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_TryCatch\bin\Debug\net6.0\XuLyNgoaiLe_TryCatch.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_TryCatch\bin\Debug\net6.0\XuLyNgoaiLe_TryCatch.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_TryCatch\bin\Debug\net6.0\XuLyNgoaiLe_TryCatch.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_TryCatch\obj\Debug\net6.0\XuLyNgoaiLe_TryCatch.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_TryCatch\obj\Debug\net6.0\XuLyNgoaiLe_TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_TryCatch\obj\Debug\net6.0\XuLyNgoaiLe_TryCatch.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_TryCatch\obj\Debug\net6.0\XuLyNgoaiLe_TryCatch.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_TryCatch\obj\Debug\net6.0\XuLyNgoaiLe_TryCatch.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_TryCatch\obj\Debug\net6.0\XuLyNgoaiLe_TryCatch.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_TryCatch\obj\Debug\net6.0\refint\XuLyNgoaiLe_TryCatch.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_TryCatch\obj\Debug\net6.0\XuLyNgoaiLe_TryCatch.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_TryCatch\obj\Debug\net6.0\XuLyNgoaiLe_TryCatch.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_TryCatch\obj\Debug\net6.0\ref\XuLyNgoaiLe_TryCatch.dll

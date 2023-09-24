@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\StreamReader_ViDu\bin\Debug\net6.0\StreamReader_ViDu.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\StreamReader_ViDu\bin\Debug\net6.0\StreamReader_ViDu.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\StreamReader_ViDu\bin\Debug\net6.0\StreamReader_ViDu.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\StreamReader_ViDu\bin\Debug\net6.0\StreamReader_ViDu.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\StreamReader_ViDu\bin\Debug\net6.0\StreamReader_ViDu.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\StreamReader_ViDu\obj\Debug\net6.0\StreamReader_ViDu.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\StreamReader_ViDu\obj\Debug\net6.0\StreamReader_ViDu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\StreamReader_ViDu\obj\Debug\net6.0\StreamReader_ViDu.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\StreamReader_ViDu\obj\Debug\net6.0\StreamReader_ViDu.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\StreamReader_ViDu\obj\Debug\net6.0\StreamReader_ViDu.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\StreamReader_ViDu\obj\Debug\net6.0\StreamReader_ViDu.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\StreamReader_ViDu\obj\Debug\net6.0\refint\StreamReader_ViDu.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\StreamReader_ViDu\obj\Debug\net6.0\StreamReader_ViDu.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\StreamReader_ViDu\obj\Debug\net6.0\StreamReader_ViDu.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\StreamReader_ViDu\obj\Debug\net6.0\ref\StreamReader_ViDu.dll

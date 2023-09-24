@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Property_ReadOnly\bin\Debug\net6.0\Property_ReadOnly.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Property_ReadOnly\bin\Debug\net6.0\Property_ReadOnly.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Property_ReadOnly\bin\Debug\net6.0\Property_ReadOnly.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Property_ReadOnly\bin\Debug\net6.0\Property_ReadOnly.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Property_ReadOnly\bin\Debug\net6.0\Property_ReadOnly.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Property_ReadOnly\obj\Debug\net6.0\Property_ReadOnly.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Property_ReadOnly\obj\Debug\net6.0\Property_ReadOnly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Property_ReadOnly\obj\Debug\net6.0\Property_ReadOnly.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Property_ReadOnly\obj\Debug\net6.0\Property_ReadOnly.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Property_ReadOnly\obj\Debug\net6.0\Property_ReadOnly.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Property_ReadOnly\obj\Debug\net6.0\Property_ReadOnly.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Property_ReadOnly\obj\Debug\net6.0\refint\Property_ReadOnly.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Property_ReadOnly\obj\Debug\net6.0\Property_ReadOnly.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Property_ReadOnly\obj\Debug\net6.0\Property_ReadOnly.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Property_ReadOnly\obj\Debug\net6.0\ref\Property_ReadOnly.dll

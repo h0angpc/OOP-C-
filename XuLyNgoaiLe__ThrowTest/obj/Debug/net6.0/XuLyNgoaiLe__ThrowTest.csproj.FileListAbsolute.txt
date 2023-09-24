@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe__ThrowTest\bin\Debug\net6.0\XuLyNgoaiLe__ThrowTest.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe__ThrowTest\bin\Debug\net6.0\XuLyNgoaiLe__ThrowTest.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe__ThrowTest\bin\Debug\net6.0\XuLyNgoaiLe__ThrowTest.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe__ThrowTest\bin\Debug\net6.0\XuLyNgoaiLe__ThrowTest.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe__ThrowTest\bin\Debug\net6.0\XuLyNgoaiLe__ThrowTest.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe__ThrowTest\obj\Debug\net6.0\XuLyNgoaiLe__ThrowTest.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe__ThrowTest\obj\Debug\net6.0\XuLyNgoaiLe__ThrowTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe__ThrowTest\obj\Debug\net6.0\XuLyNgoaiLe__ThrowTest.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe__ThrowTest\obj\Debug\net6.0\XuLyNgoaiLe__ThrowTest.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe__ThrowTest\obj\Debug\net6.0\XuLyNgoaiLe__ThrowTest.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe__ThrowTest\obj\Debug\net6.0\XuLyNgoaiLe__ThrowTest.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe__ThrowTest\obj\Debug\net6.0\refint\XuLyNgoaiLe__ThrowTest.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe__ThrowTest\obj\Debug\net6.0\XuLyNgoaiLe__ThrowTest.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe__ThrowTest\obj\Debug\net6.0\XuLyNgoaiLe__ThrowTest.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe__ThrowTest\obj\Debug\net6.0\ref\XuLyNgoaiLe__ThrowTest.dll

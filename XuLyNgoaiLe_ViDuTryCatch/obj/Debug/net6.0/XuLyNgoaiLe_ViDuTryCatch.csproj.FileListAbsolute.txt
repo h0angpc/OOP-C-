@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_ViDuTryCatch\bin\Debug\net6.0\XuLyNgoaiLe_ViDuTryCatch.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_ViDuTryCatch\bin\Debug\net6.0\XuLyNgoaiLe_ViDuTryCatch.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_ViDuTryCatch\bin\Debug\net6.0\XuLyNgoaiLe_ViDuTryCatch.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_ViDuTryCatch\bin\Debug\net6.0\XuLyNgoaiLe_ViDuTryCatch.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_ViDuTryCatch\bin\Debug\net6.0\XuLyNgoaiLe_ViDuTryCatch.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_ViDuTryCatch\obj\Debug\net6.0\XuLyNgoaiLe_ViDuTryCatch.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_ViDuTryCatch\obj\Debug\net6.0\XuLyNgoaiLe_ViDuTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_ViDuTryCatch\obj\Debug\net6.0\XuLyNgoaiLe_ViDuTryCatch.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_ViDuTryCatch\obj\Debug\net6.0\XuLyNgoaiLe_ViDuTryCatch.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_ViDuTryCatch\obj\Debug\net6.0\XuLyNgoaiLe_ViDuTryCatch.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_ViDuTryCatch\obj\Debug\net6.0\XuLyNgoaiLe_ViDuTryCatch.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_ViDuTryCatch\obj\Debug\net6.0\refint\XuLyNgoaiLe_ViDuTryCatch.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_ViDuTryCatch\obj\Debug\net6.0\XuLyNgoaiLe_ViDuTryCatch.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_ViDuTryCatch\obj\Debug\net6.0\XuLyNgoaiLe_ViDuTryCatch.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_ViDuTryCatch\obj\Debug\net6.0\ref\XuLyNgoaiLe_ViDuTryCatch.dll

@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ClassInClass\bin\Debug\net6.0\ThuaKe_ClassInClass.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ClassInClass\bin\Debug\net6.0\ThuaKe_ClassInClass.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ClassInClass\bin\Debug\net6.0\ThuaKe_ClassInClass.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ClassInClass\bin\Debug\net6.0\ThuaKe_ClassInClass.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ClassInClass\bin\Debug\net6.0\ThuaKe_ClassInClass.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ClassInClass\obj\Debug\net6.0\ThuaKe_ClassInClass.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ClassInClass\obj\Debug\net6.0\ThuaKe_ClassInClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ClassInClass\obj\Debug\net6.0\ThuaKe_ClassInClass.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ClassInClass\obj\Debug\net6.0\ThuaKe_ClassInClass.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ClassInClass\obj\Debug\net6.0\ThuaKe_ClassInClass.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ClassInClass\obj\Debug\net6.0\ThuaKe_ClassInClass.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ClassInClass\obj\Debug\net6.0\refint\ThuaKe_ClassInClass.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ClassInClass\obj\Debug\net6.0\ThuaKe_ClassInClass.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ClassInClass\obj\Debug\net6.0\ThuaKe_ClassInClass.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ClassInClass\obj\Debug\net6.0\ref\ThuaKe_ClassInClass.dll

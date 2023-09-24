@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ExtensionMethods\bin\Debug\net6.0\ThuaKe_ExtensionMethods.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ExtensionMethods\bin\Debug\net6.0\ThuaKe_ExtensionMethods.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ExtensionMethods\bin\Debug\net6.0\ThuaKe_ExtensionMethods.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ExtensionMethods\bin\Debug\net6.0\ThuaKe_ExtensionMethods.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ExtensionMethods\bin\Debug\net6.0\ThuaKe_ExtensionMethods.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ExtensionMethods\obj\Debug\net6.0\ThuaKe_ExtensionMethods.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ExtensionMethods\obj\Debug\net6.0\ThuaKe_ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ExtensionMethods\obj\Debug\net6.0\ThuaKe_ExtensionMethods.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ExtensionMethods\obj\Debug\net6.0\ThuaKe_ExtensionMethods.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ExtensionMethods\obj\Debug\net6.0\ThuaKe_ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ExtensionMethods\obj\Debug\net6.0\ThuaKe_ExtensionMethods.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ExtensionMethods\obj\Debug\net6.0\refint\ThuaKe_ExtensionMethods.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ExtensionMethods\obj\Debug\net6.0\ThuaKe_ExtensionMethods.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ExtensionMethods\obj\Debug\net6.0\ThuaKe_ExtensionMethods.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\ThuaKe_ExtensionMethods\obj\Debug\net6.0\ref\ThuaKe_ExtensionMethods.dll

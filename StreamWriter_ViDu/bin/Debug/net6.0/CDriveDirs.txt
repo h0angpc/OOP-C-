@@ -1,0 +1,17 @@
+$Recycle.Bin
+Config
+Documents and Settings
+DRIVERS
+eSupport
+Intel
+OneDriveTemp
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+Riot Games
+System Volume Information
+Users
+WIMAPPLY
+Windows

@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_ViDu1\bin\Debug\net6.0\Delegates_ViDu1.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_ViDu1\bin\Debug\net6.0\Delegates_ViDu1.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_ViDu1\bin\Debug\net6.0\Delegates_ViDu1.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_ViDu1\bin\Debug\net6.0\Delegates_ViDu1.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_ViDu1\bin\Debug\net6.0\Delegates_ViDu1.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_ViDu1\obj\Debug\net6.0\Delegates_ViDu1.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_ViDu1\obj\Debug\net6.0\Delegates_ViDu1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_ViDu1\obj\Debug\net6.0\Delegates_ViDu1.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_ViDu1\obj\Debug\net6.0\Delegates_ViDu1.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_ViDu1\obj\Debug\net6.0\Delegates_ViDu1.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_ViDu1\obj\Debug\net6.0\Delegates_ViDu1.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_ViDu1\obj\Debug\net6.0\refint\Delegates_ViDu1.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_ViDu1\obj\Debug\net6.0\Delegates_ViDu1.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_ViDu1\obj\Debug\net6.0\Delegates_ViDu1.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Delegates_ViDu1\obj\Debug\net6.0\ref\Delegates_ViDu1.dll

@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_Throw\bin\Debug\net6.0\XuLyNgoaiLe_Throw.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_Throw\bin\Debug\net6.0\XuLyNgoaiLe_Throw.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_Throw\bin\Debug\net6.0\XuLyNgoaiLe_Throw.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_Throw\bin\Debug\net6.0\XuLyNgoaiLe_Throw.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_Throw\bin\Debug\net6.0\XuLyNgoaiLe_Throw.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_Throw\obj\Debug\net6.0\XuLyNgoaiLe_Throw.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_Throw\obj\Debug\net6.0\XuLyNgoaiLe_Throw.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_Throw\obj\Debug\net6.0\XuLyNgoaiLe_Throw.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_Throw\obj\Debug\net6.0\XuLyNgoaiLe_Throw.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_Throw\obj\Debug\net6.0\XuLyNgoaiLe_Throw.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_Throw\obj\Debug\net6.0\XuLyNgoaiLe_Throw.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_Throw\obj\Debug\net6.0\refint\XuLyNgoaiLe_Throw.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_Throw\obj\Debug\net6.0\XuLyNgoaiLe_Throw.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_Throw\obj\Debug\net6.0\XuLyNgoaiLe_Throw.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\XuLyNgoaiLe_Throw\obj\Debug\net6.0\ref\XuLyNgoaiLe_Throw.dll

@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Events_ViDu\bin\Debug\net6.0\Events_ViDu.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Events_ViDu\bin\Debug\net6.0\Events_ViDu.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Events_ViDu\bin\Debug\net6.0\Events_ViDu.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Events_ViDu\bin\Debug\net6.0\Events_ViDu.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Events_ViDu\bin\Debug\net6.0\Events_ViDu.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Events_ViDu\obj\Debug\net6.0\Events_ViDu.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Events_ViDu\obj\Debug\net6.0\Events_ViDu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Events_ViDu\obj\Debug\net6.0\Events_ViDu.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Events_ViDu\obj\Debug\net6.0\Events_ViDu.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Events_ViDu\obj\Debug\net6.0\Events_ViDu.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Events_ViDu\obj\Debug\net6.0\Events_ViDu.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Events_ViDu\obj\Debug\net6.0\refint\Events_ViDu.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Events_ViDu\obj\Debug\net6.0\Events_ViDu.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Events_ViDu\obj\Debug\net6.0\Events_ViDu.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Events_ViDu\obj\Debug\net6.0\ref\Events_ViDu.dll

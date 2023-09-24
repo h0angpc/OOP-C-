@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Queue_ViDu\bin\Debug\net6.0\Queue_ViDu.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Queue_ViDu\bin\Debug\net6.0\Queue_ViDu.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Queue_ViDu\bin\Debug\net6.0\Queue_ViDu.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Queue_ViDu\bin\Debug\net6.0\Queue_ViDu.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Queue_ViDu\bin\Debug\net6.0\Queue_ViDu.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Queue_ViDu\obj\Debug\net6.0\Queue_ViDu.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Queue_ViDu\obj\Debug\net6.0\Queue_ViDu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Queue_ViDu\obj\Debug\net6.0\Queue_ViDu.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Queue_ViDu\obj\Debug\net6.0\Queue_ViDu.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Queue_ViDu\obj\Debug\net6.0\Queue_ViDu.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Queue_ViDu\obj\Debug\net6.0\Queue_ViDu.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Queue_ViDu\obj\Debug\net6.0\refint\Queue_ViDu.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Queue_ViDu\obj\Debug\net6.0\Queue_ViDu.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Queue_ViDu\obj\Debug\net6.0\Queue_ViDu.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Queue_ViDu\obj\Debug\net6.0\ref\Queue_ViDu.dll

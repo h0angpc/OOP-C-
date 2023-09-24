@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Overload_ToanTuChuyenDoi\bin\Debug\net6.0\Overload_ToanTuChuyenDoi.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Overload_ToanTuChuyenDoi\bin\Debug\net6.0\Overload_ToanTuChuyenDoi.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Overload_ToanTuChuyenDoi\bin\Debug\net6.0\Overload_ToanTuChuyenDoi.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Overload_ToanTuChuyenDoi\bin\Debug\net6.0\Overload_ToanTuChuyenDoi.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Overload_ToanTuChuyenDoi\bin\Debug\net6.0\Overload_ToanTuChuyenDoi.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Overload_ToanTuChuyenDoi\obj\Debug\net6.0\Overload_ToanTuChuyenDoi.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Overload_ToanTuChuyenDoi\obj\Debug\net6.0\Overload_ToanTuChuyenDoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Overload_ToanTuChuyenDoi\obj\Debug\net6.0\Overload_ToanTuChuyenDoi.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Overload_ToanTuChuyenDoi\obj\Debug\net6.0\Overload_ToanTuChuyenDoi.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Overload_ToanTuChuyenDoi\obj\Debug\net6.0\Overload_ToanTuChuyenDoi.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Overload_ToanTuChuyenDoi\obj\Debug\net6.0\Overload_ToanTuChuyenDoi.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Overload_ToanTuChuyenDoi\obj\Debug\net6.0\refint\Overload_ToanTuChuyenDoi.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Overload_ToanTuChuyenDoi\obj\Debug\net6.0\Overload_ToanTuChuyenDoi.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Overload_ToanTuChuyenDoi\obj\Debug\net6.0\Overload_ToanTuChuyenDoi.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\Overload_ToanTuChuyenDoi\obj\Debug\net6.0\ref\Overload_ToanTuChuyenDoi.dll

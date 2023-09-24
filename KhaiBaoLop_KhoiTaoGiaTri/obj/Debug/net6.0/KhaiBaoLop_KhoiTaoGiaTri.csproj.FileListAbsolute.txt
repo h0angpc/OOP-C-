@@ -1,0 +1,15 @@
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\KhaiBaoLop_KhoiTaoGiaTri\bin\Debug\net6.0\KhaiBaoLop_KhoiTaoGiaTri.exe
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\KhaiBaoLop_KhoiTaoGiaTri\bin\Debug\net6.0\KhaiBaoLop_KhoiTaoGiaTri.deps.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\KhaiBaoLop_KhoiTaoGiaTri\bin\Debug\net6.0\KhaiBaoLop_KhoiTaoGiaTri.runtimeconfig.json
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\KhaiBaoLop_KhoiTaoGiaTri\bin\Debug\net6.0\KhaiBaoLop_KhoiTaoGiaTri.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\KhaiBaoLop_KhoiTaoGiaTri\bin\Debug\net6.0\KhaiBaoLop_KhoiTaoGiaTri.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\KhaiBaoLop_KhoiTaoGiaTri\obj\Debug\net6.0\KhaiBaoLop_KhoiTaoGiaTri.csproj.AssemblyReference.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\KhaiBaoLop_KhoiTaoGiaTri\obj\Debug\net6.0\KhaiBaoLop_KhoiTaoGiaTri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\KhaiBaoLop_KhoiTaoGiaTri\obj\Debug\net6.0\KhaiBaoLop_KhoiTaoGiaTri.AssemblyInfoInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\KhaiBaoLop_KhoiTaoGiaTri\obj\Debug\net6.0\KhaiBaoLop_KhoiTaoGiaTri.AssemblyInfo.cs
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\KhaiBaoLop_KhoiTaoGiaTri\obj\Debug\net6.0\KhaiBaoLop_KhoiTaoGiaTri.csproj.CoreCompileInputs.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\KhaiBaoLop_KhoiTaoGiaTri\obj\Debug\net6.0\KhaiBaoLop_KhoiTaoGiaTri.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\KhaiBaoLop_KhoiTaoGiaTri\obj\Debug\net6.0\refint\KhaiBaoLop_KhoiTaoGiaTri.dll
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\KhaiBaoLop_KhoiTaoGiaTri\obj\Debug\net6.0\KhaiBaoLop_KhoiTaoGiaTri.pdb
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\KhaiBaoLop_KhoiTaoGiaTri\obj\Debug\net6.0\KhaiBaoLop_KhoiTaoGiaTri.genruntimeconfig.cache
+D:\Hoang\OOP\Chuong2_PhanChauHoang-22520475\KhaiBaoLop_KhoiTaoGiaTri\obj\Debug\net6.0\ref\KhaiBaoLop_KhoiTaoGiaTri.dll
